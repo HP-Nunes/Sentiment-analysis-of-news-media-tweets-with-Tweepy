@@ -1,14 +1,14 @@
 # TwitterPy
 Sentiment Analysis using Twitter APIs
 
-# Reflection about the assigment
+## Reflection about the assignment
 I have been stubborn using Plotly instead of seaborn or matplotlib because I am foremost interested in creating something interactive and customizable. Hence this is an assigment I keep revisiting because I am struggling with implementing certain features, like a drop down menu to see my scatterpoints for a single news media organizations.
 
 Also, as a disclaimer, I have included certain media organization in this exercise which I do not condone (hence media as opposed to "news" organizations), namely InfoWars and Breitbart News which I have no qualms denouncing as pernicious and perverse. I thought it would be interesting to compare media known to generate outrage and distrust with mainstream media, and the results were surprising although limited due to timespan being less than 24 hours (also VADER's methodology can be questionable in assigning sentiment scores). The mainstream tended to be as negative overall as far-right media, and rather surprisingly CNN had on average a near neutral sentiment analysis score.
 
 The overall takeaway was that media will try to "clickbait" or generate as much buzz as possible within the confine of Twitter's limited character space, and entice users to click on their articles. Often that means focusing on news that is polarizing, and perhaps even sensationalized. There's also the aspect of news being inherently "bad", so it may depends on the news stories that were making the buzz at that time.
 
-# Instructions:
+## Instructions:
 
 In this assignment, you'll create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present your findings visually.
 
